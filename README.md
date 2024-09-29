@@ -1,5 +1,7 @@
 # Breast Cancer Classification Project
 
+![](image/image/Main-breast.jpg)
+
 ## Overview
 
 This project aims to classify breast cancer tumors as malignant or benign using machine learning techniques on the Breast Cancer Wisconsin dataset from sklearn. The dataset includes various features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.
