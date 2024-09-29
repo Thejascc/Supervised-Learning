@@ -10,7 +10,7 @@ The dataset used in this project is the Breast Cancer Wisconsin dataset, which c
 
 - **Number of samples**: 569
 - **Number of features**: 30
-- **Target variable**: Class labels (0 for benign, 1 for malignant)
+- **Target variable**: Class labels (0 for Harmless, 1 for Harmfull)
 
 ### Features
 
