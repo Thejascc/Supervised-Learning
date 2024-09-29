@@ -1,6 +1,6 @@
 # Breast Cancer Classification Project
 
-![](image/image/Main-breast.jpg)
+![](image/image/Mainbreast.jpg)
 
 ## Overview
 
