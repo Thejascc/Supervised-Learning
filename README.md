@@ -1,6 +1,6 @@
 # Breast Cancer Classification Project
 
-![](images/image/Mainbreast.jpg)
+![Main-breast](https://github.com/user-attachments/assets/4d1fb266-59a3-49a2-a500-78c118d7c0ed)
 
 ## Overview
 
